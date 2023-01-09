@@ -3,12 +3,12 @@ package JavaBasic.src.main.java.class_and_methods;
 public class task_4 {
     public static void main(String[] args) {
 
-        System.out.println(isPositive(0));
+        System.out.println(isPositive(1));
     }
 
     public static boolean isPositive(int x) {
 
-        return x >= 0;
+        return x >= 1;
 
     }
 }
